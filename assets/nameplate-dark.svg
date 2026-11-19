@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="212" viewBox="0 0 1000 212" role="img" aria-labelledby="title desc">
+<title id="title">Khashayar Pakfar | AI product builder</title>
+<desc id="desc">A personal nameplate in ink and paper. Visit kpakfar.me.</desc>
+<rect width="1000" height="212" rx="3" fill="#171b20"/>
+<path d="M32 32 H968 M32 180 H968" fill="none" stroke="#414851"/>
+<text x="42" y="130" fill="#abc0dc" font-family="Georgia, 'Times New Roman', serif" font-size="103" letter-spacing="-9">kp.</text>
+<path d="M205 55 V157" stroke="#414851"/>
+<text x="240" y="96" fill="#f2efe7" font-family="Georgia, 'Times New Roman', serif" font-size="47" letter-spacing="-1">Khashayar Pakfar</text>
+<text x="243" y="136" fill="#b7b9bb" font-family="Arial, Helvetica, sans-serif" font-size="21">AI product builder</text>
+<text x="945" y="89" fill="#b7b9bb" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18">Berlin</text>
+<text x="945" y="136" fill="#abc0dc" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="26">kpakfar.me</text>
+<path d="M818 147 H945" stroke="#abc0dc" stroke-width="1.5"/>
+</svg>
