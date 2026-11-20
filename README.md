@@ -1,40 +1,43 @@
 <a href="https://kpakfar.me">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/nameplate-dark.svg">
-    <img src="assets/nameplate-light.svg" alt="Khashayar Pakfar. AI product builder in Berlin. Visit kpakfar.me." width="100%">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/builder-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/builder-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/builder-dark.svg">
+    <img src="assets/builder-light.svg" alt="Khashayar Pakfar. Product manager and AI builder. 16 years in software, 13 in product. Berlin." width="100%">
   </picture>
 </a>
 
-## I build AI products
+I've led a 30-person marketplace unit and taken AI products from concept to launch. Today I use AI coding agents to build products I design. People approve consequential actions.
 
-I'm Khashayar, a product manager and builder in Berlin. I've worked in software since 2009, including enterprise systems and travel marketplaces. Today I use AI coding agents to turn product ideas into working software.
+**[Explore my work and ask my AI twin at kpakfar.me](https://kpakfar.me)**
 
-I design the workflow and check the results. When a tool can act on someone's behalf, I build in human approval.
+<table>
+<tr>
+<td width="33%" valign="top"><h3>4 months</h3>AI concept to launch<br><sub>Deutschtec.ai</sub></td>
+<td width="34%" valign="top"><h3>60% less</h3>Manual HR casework<br><sub>BEM Center</sub></td>
+<td width="33%" valign="top"><h3>5,400 homes</h3>Onboarded in 9 months<br><sub>Jabama</sub></td>
+</tr>
+</table>
 
-**[kpakfar.me](https://kpakfar.me)** is my portfolio. My AI twin, kp, answers questions about my work from my public notes, with citations.
+## Open something I built
 
-## Selected work
+<table>
+<tr>
+<td width="22%" valign="top"><a href="https://github.com/Kpakfar/leadradar"><strong>LeadRadar</strong></a><br><sub>Sales research</sub></td>
+<td>A sales brief becomes researched leads and outreach drafts. A person reviews each sourced draft.<br><a href="https://github.com/Kpakfar/leadradar#using-it">See the workflow</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Kpakfar/mentat"><strong>Mentat</strong></a><br><sub>Product strategy</sub></td>
+<td>An HR-tech advisor that supports product decisions with cited evidence. Test it against a fictional company.<br><a href="https://github.com/Kpakfar/mentat/blob/main/eval/runs.md">Read the evaluations</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/Kpakfar/ForgeWorks"><strong>ForgeWorks</strong></a><br><sub>Agentic development</sub></td>
+<td>The workflow I use to build: agents plan, write tests and review changes. Quality gates must pass before a merge.<br><a href="https://github.com/Kpakfar/ForgeWorks#how-it-works">Look inside</a></td>
+</tr>
+</table>
 
-### [LeadRadar](https://github.com/Kpakfar/leadradar)
-
-A sales brief becomes researched, scored leads and outreach drafts. Each draft points back to its sources; a person reviews it before use. Built with LangGraph, with separate knowledge for each brief.
-
-### [Mentat](https://github.com/Kpakfar/mentat)
-
-A strategy advisor for HR-tech product decisions. It combines document search with structured tools and cited answers. Includes a fictional company dataset and [published evaluation traces](https://github.com/Kpakfar/mentat/blob/main/eval/runs.md).
-
-### [German tax skill](https://github.com/Kpakfar/german-tax-skill)
-
-An agent helps prepare a German tax return. Scripts check amounts against documents and apply supported limits. The person reviews and files. A reusable template, not tax advice.
-
-## The tools behind the work
-
-| Project | What it does |
-| :--- | :--- |
-| [ForgeWorks](https://github.com/Kpakfar/ForgeWorks) | Gives AI coding agents a workflow with planning, tests, reviews and quality gates. |
-| [testbite](https://github.com/Kpakfar/testbite) | Changes the lines in a git diff to find bugs that passing tests miss. |
-| [TandemView](https://github.com/Kpakfar/tandemview) | Runs practice interviews from a CV and job description, with [documented prompt evaluation](https://github.com/Kpakfar/tandemview/blob/main/docs/EVALUATION.md). |
+Also built: [testbite](https://github.com/Kpakfar/testbite), which finds gaps in passing tests; [TandemView](https://github.com/Kpakfar/tandemview), for interview practice; and a [German tax preparation skill](https://github.com/Kpakfar/german-tax-skill).
 
 ---
 
-Based in Berlin. I work in English and German. More about me at [kpakfar.me](https://kpakfar.me).
+Open to AI product roles in Germany. [My experience](https://kpakfar.me/journey/) · [Talk to kp](https://kpakfar.me)
